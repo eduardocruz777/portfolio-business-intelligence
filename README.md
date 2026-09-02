@@ -46,3 +46,4 @@ Para garantir uma navegação fluida e exploração autônoma por parte dos gest
 * **Eduardo Cruz**
 * LinkedIn: [eduardo-cruz777](https://linkedin.com)
 * Email: edufracruz@gmail.com
+![Preview do Dashboard](./dashboard-vendas.png)
